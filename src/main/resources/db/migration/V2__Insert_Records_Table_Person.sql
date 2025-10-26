@@ -1,0 +1,10 @@
+insert into basiccrud (first_name, last_name, gender, age) values ('Gusella', 'Mattheeuw', 'Female', 26),
+ ('Bobbette', 'Brownsett', 'Female', 19),
+ ('Stearne', 'Drawmer', 'Male', 28),
+ ('Shannon', 'Gilffilland', 'Male', 74),
+ ('Royce', 'Kosel', 'Male', 86),
+ ('Flemming', 'Clipson', 'Non-binary', 100),
+ ('Raeann', 'McLeish', 'Female', 57),
+ ('Mace', 'Franciskiewicz', 'Male', 94),
+ ('Nancey', 'Row', 'Female', 40),
+ ('Mose', 'Lowe', 'Male', 6);
